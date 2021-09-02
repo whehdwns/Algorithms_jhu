@@ -11,7 +11,7 @@ JHU Foundations of Algorithms, 605.621 Summer 2021
 * Implemented the traveling salesman problem (TSP) that finds the fastest tour covering all the lighthouses.
 * Implemented Simple algorithm using Brute-force algorithm.
 * Implemented the improved algorithm using the Nearest Neighbor method and Multi-Fragment Heuristic method. 
-* Analyze the algorithm performance (time complexity) by measuring the number of function calls of the algorithm. 
+* Analyzed the algorithm performance (time complexity) by measuring the number of function calls of the algorithm. 
 
 ## PA_3: Interleaving Strings
 * Analyzed the dynamic programming algorithm that finds if a string is interleaved of two other strings.
